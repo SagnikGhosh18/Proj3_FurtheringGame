@@ -9,7 +9,7 @@ The user chooses a number and the computer has to guess the number. At each step
 1) Download and extract the codes.
 2) Make sure nodemon and the expo CLI are installed.
 3) cd over to the project directory via the terminal.
-4) run the following commands:
+4) run the following commands:         
     a) npm i (to install all necessary packages)     
     b) npx expo start     
 5) After the expo server starts, we can run the app on an emulator or our own device via the Expo Go App.
